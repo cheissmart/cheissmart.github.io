@@ -1,6 +1,6 @@
 import data from './data/achievements.json'
 
-const ConditionalWrapper = ({ children, condition} : {children: string, condition: boolean}) => {
+const ConditionalWrapper = ({ children, condition} : {children: JSX.Element, condition: boolean}) => {
   return condition ? (
       <b>{children}</b>
   ) : (
