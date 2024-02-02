@@ -17,7 +17,9 @@ const AchievementList = (): JSX.Element => {
                 <div className = "mt-4" key={index}>
                   <p className = "text-base text-gray-600">
                     <ConditionalWrapper condition={achievement.highlight}>
-                    {achievement.award}
+                      <span>
+                        {achievement.award}
+                      </span>
                     </ConditionalWrapper>
                   </p>
                   <p className = "text-sm text-gray-400">{achievement.event}, {achievement.year}</p>
