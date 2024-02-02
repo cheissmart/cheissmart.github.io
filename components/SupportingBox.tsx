@@ -28,15 +28,15 @@ const SupportingBox = (): JSX.Element => {
                 <Box href="/cv.pdf" label="CV">
                     <IconImage path='/images/cv-file-interface-symbol-svgrepo-com.svg' name="CV"/>
                 </Box>
-                <Box href={personalInfo.socialMedia.Twitter} label="Twitter">
-                    <IconImage path='/images/icons8-twitter.svg' name="Twitter"/>
+                <Box href={personalInfo.socialMedia.Github} label="Github">
+                    <IconImage path='/images/icons8-Github.svg' name="Github"/>
                 </Box>
                 <Box href={personalInfo.socialMedia.LinkedIn} label="LinkedIn">
                     <IconImage path='/images/icons8-linkedin.svg' name="LinkedIn"/>
                 </Box>
-                <Box href={personalInfo.socialMedia.GoogleScholar} label="GoogleScholar">
+                {/* <Box href={personalInfo.socialMedia.GoogleScholar} label="GoogleScholar">
                     <IconImage path='/images/icons8-google-scholar.svg' name="GoogleScholar"/>
-                </Box>
+                </Box> */}
             </div>
         </div>
         );

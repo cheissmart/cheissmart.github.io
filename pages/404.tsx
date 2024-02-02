@@ -31,9 +31,9 @@ const FourOFour: NextPage<unknown> = () => (
 			className="italic m-0 pl-4 border-l-4 border-gray-400 grid gap-5"
 			cite="https://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=henry6p3&Act=3&Scene=3&Scope=scene"
 		>
-			<p>hi</p>
+			<p>你好</p>
 			<footer>
-				— P
+				— 劉澈
 			</footer>
 		</blockquote>
 	</section>

@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://nextjs-academic-theme.vercel.app/
+Host: https://cheissmart.github.io/
 
 # Sitemaps
-Sitemap: https://nextjs-academic-theme.vercel.app/sitemap.xml
+Sitemap: https://cheissmart.github.io/sitemap.xml

@@ -1,39 +1,30 @@
 {
-    "title": "Harry Potter",
-    "name": "Harry James Potter",
-    "domain":"https://nextjs-academic-theme.vercel.app/",
-    "copyright":"harrypotter.me",
+    "title": "Che Liu (劉澈)",
+    "name": "Che Liu (劉澈)",
+    "domain":"https://cheissmart.github.io/",
+    "copyright":"Che Liu",
     "socialMedia": {
-        "Twitter": "https://twitter.com/",
-        "LinkedIn": "https://www.linkedin.com/",
+        "Github": "https://github.com/che330/",
+        "LinkedIn": "https://www.linkedin.com/in/che-liu-40a97326a/",
         "GoogleScholar": "https://scholar.google.com/"
     },
     "about": {
-        "year": "7th-year",
-        "department": {
-            "name": "Gryffindor",
-            "link": "https://harrypotter.fandom.com/wiki/Gryffindor"
+        "year": "2nd-year",
+        "major": {
+            "name": "Computer Engineering",
+            "link": "https://www.eee.hku.hk/study/undergraduate/computer-engineering/"
         },
         "college": {
-            "name": "Hogwarts School of Witchcraft and Wizardry",
-            "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
+            "name": "The University of Hong Kong",
+            "link": "https://hku.hk"
         },
-        "advisor": {
-            "name": "Albus Dumbledor",
-            "link": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
-        },
-        "email": "harrypotter AT MyUniversity",
-        "interest": "Defense against Dark Arts Spell; Dark Creatures"
+        "email": "liuche [AT] connect [DOT] hku [DOT] hk"
     },
-    "love": "https://harrypotter.fandom.com/wiki/James_and_Lily_Potter",
+    "love": "",
     "education": [
         {
-            "name": "The Auror Department(2007-2008, Visiting Scholar)",
-            "link": "https://harrypotter.fandom.com/wiki/British_Auror_Office"
-        },
-        {
-            "name": "Hogwarts Primary University(1911-1988, Bachelor's in Magic)",
-            "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
+            "degree": "Bachelor of Engineering (Computer Engineering), 2022-2024",
+            "institution": "The University of Hong Kong"
         }
     ]
 

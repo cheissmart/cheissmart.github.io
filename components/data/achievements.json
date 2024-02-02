@@ -1,0 +1,44 @@
+[
+	{
+		"award": "Silver Medal",
+		"event": "The 34th International Olympiad in Informatics",
+		"year": 2022,
+		"highlight": true
+	},
+	{
+		"award": "Participant",
+		"event": "47th Annual World Championship of the International Collegiate Programming Contest",
+		"year": 2024,
+		"highlight": true
+	},
+	{
+		"award": "Gold Medal",
+		"event": "The 2022 ICPC Asia Jinan Regional Contest",
+		"year": 2022,
+		"highlight": false
+	},
+	{
+		"award": "Gold Medal, Best Hong Kong Team",
+		"event": "The 2022 ICPC Asia Hong Kong Regional Contest",
+		"year": 2022,
+		"highlight": false
+	},
+	{
+		"award": "Gold Medal, Outstanding Local Team",
+		"event": "The 2023 ICPC Asia Macau Regional Contest",
+		"year": 2023,
+		"highlight": false
+	},
+	{
+		"award": "Gold Medal",
+		"event": "The 2023 ICPC Asia East Continent Final Contest",
+		"year": 2023,
+		"highlight": false
+	},
+	{
+		"award": "IET Prize 2023",
+		"event": "The Institution of Engineering and Technology Hong Kong",
+		"year": 2023,
+		"highlight": false
+	}
+]
